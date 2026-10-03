@@ -1,0 +1,24 @@
+# Data files are not distributed. Never commit individual-level data.
+*.dta
+*.sav
+*.sas7bdat
+*.parquet
+*.csv
+
+# Keep example outputs out of the repository
+!requirements.txt
+output/
+analysis_output/
+data/
+
+# Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
