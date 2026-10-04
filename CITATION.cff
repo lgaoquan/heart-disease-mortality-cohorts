@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Analysis code for self-reported heart disease and mortality across four ageing cohorts"
+type: software
+message: "If you use this code, please cite the associated manuscript and the source cohort datasets."
+authors:
+  - family-names: Fu
+    given-names: Ruibin
+  - family-names: Liu
+    given-names: Liu
+  - family-names: Jiang
+    given-names: Che
+  - family-names: Du
+    given-names: Hanqiang
+  - family-names: Luo
+    given-names: Gaoquan
+repository-code: "https://github.com/lgaoquan/heart-disease-mortality-cohorts"
+license: MIT

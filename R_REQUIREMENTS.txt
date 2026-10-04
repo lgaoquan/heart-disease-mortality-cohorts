@@ -1,0 +1,6 @@
+R packages used by the reported analysis:
+survival
+data.table
+splines
+metafor
+jsonlite
