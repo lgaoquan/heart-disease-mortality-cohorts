@@ -5,12 +5,10 @@ message: "If you use this code, please cite the associated manuscript and the so
 authors:
   - family-names: Fu
     given-names: Ruibin
+  - family-names: Zhang
+    given-names: Yuan
   - family-names: Liu
     given-names: Liu
-  - family-names: Jiang
-    given-names: Che
-  - family-names: Du
-    given-names: Hanqiang
   - family-names: Luo
     given-names: Gaoquan
 repository-code: "https://github.com/lgaoquan/heart-disease-mortality-cohorts"
